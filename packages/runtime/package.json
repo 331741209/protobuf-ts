@@ -21,7 +21,6 @@
     "access": "public",
     "registry": "http://172.18.199.62:4873/"
   },
-  "type": "module",
   "main": "./build/commonjs/index.js",
   "module": "./build/es2015/index.js",
   "typings": "./build/types/index.d.ts",
