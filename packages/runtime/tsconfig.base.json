@@ -5,7 +5,7 @@
     "sourceMap": false,
     "baseUrl": "./",
     "strict": true,
-    "moduleResolution": "node",
+    "moduleResolution": "NodeNext",
     "forceConsistentCasingInFileNames": true,
     "skipLibCheck": false,
 

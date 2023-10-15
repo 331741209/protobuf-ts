@@ -17,7 +17,8 @@
     "directory": "packages/runtime-rpc"
   },
   "publishConfig": {
-    "access": "public"
+    "access": "public",
+    "registry": "http://172.18.199.62:4873/"
   },
   "main": "./build/commonjs/index.js",
   "module": "./build/es2015/index.js",

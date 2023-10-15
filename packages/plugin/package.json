@@ -26,7 +26,8 @@
     "directory": "packages/plugin"
   },
   "publishConfig": {
-    "access": "public"
+    "access": "public",
+    "registry": "http://172.18.199.62:4873/"
   },
   "devDependencies": {
     "@types/jasmine": "^3.5.10",
