@@ -22,7 +22,8 @@
   "typings": "./build/types/index.d.ts",
   "sideEffects": false,
   "publishConfig": {
-    "access": "public"
+    "access": "public",
+    "registry": "http://172.18.199.62:4873/"
   },
   "devDependencies": {
     "@types/jasmine": "^3.5.10",
@@ -42,5 +43,5 @@
     "@protobuf-ts/runtime": "^2.9.1-alpha.0",
     "@protobuf-ts/runtime-rpc": "^2.9.1-alpha.0"
   },
-  "gitHead": "2742e3995c14cab17e74be919b59b878c8383ad9"
+  "gitHead": "6fdd31412d74a95024ce3f2b2453de0753f9110e"
 }

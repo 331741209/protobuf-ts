@@ -21,6 +21,7 @@
     "access": "public",
     "registry": "http://172.18.199.62:4873/"
   },
+  "type": "module",
   "main": "./build/commonjs/index.js",
   "module": "./build/es2015/index.js",
   "typings": "./build/types/index.d.ts",
@@ -38,5 +39,5 @@
     "tslib": ">=1.6.1",
     "typescript": ">=3.8.3 <4"
   },
-  "gitHead": "2742e3995c14cab17e74be919b59b878c8383ad9"
+  "gitHead": "6fdd31412d74a95024ce3f2b2453de0753f9110e"
 }
